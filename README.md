@@ -7,9 +7,11 @@ To apply statistical estimation techniques to demographic data, deriving confide
 
 **Core Competencies Demonstrated:**
 * Point and Interval Estimation
-* Hypothesis Testing 
+* A/B Testing & Group Comparison
+* Hypothesis Testing (Null/Alternative formulation)
 * Statistical Data Transformation
 
 **Repository Structure:**
-* `statistical_estimation_analysis.ipynb`: The core Python notebook detailing the statistical mathematical logic and data visualization.
-* `child_outlook_dataset.csv`: The demographic dataset used for the analysis.
+* `statistical_estimation_analysis.ipynb`: Statistical mathematical logic and mean estimation.
+* `hypothesis_testing.ipynb`: Practical application of hypothesis testing across multiple business scenarios (marketing, legal, operations).
+* `* .csv`: Various datasets used to run the statistical tests.
